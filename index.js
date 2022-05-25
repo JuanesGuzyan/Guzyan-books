@@ -15,6 +15,6 @@ myModal.addEventListener('shown.bs.modal', () => {
 })
 
 function Otrapag () {
-    location.href = "https://www.amazon.com/-/es/Juan-Esteban-Guzm%C3%A1n-Yance-ebook/dp/B0923NLF73/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HHAJJH46LRW7&keywords=libro+basica+para+entender+el+criptoverso&qid=1653430951&sprefix=libro+basica+para+entender+el+criptoverso%2Caps%2C95&sr=8-1";
+    location.href = "https://www.amazon.com/-/es/gp/product/B0923NLF73/ref=dbs_a_def_rwt_bibl_vppi_i0";
 }
 
