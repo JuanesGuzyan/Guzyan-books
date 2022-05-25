@@ -20,3 +20,7 @@ body {
 .about-text {
   height: 50vh;
 }
+
+.Features {
+  margin-top: 4rem !important;
+}
